@@ -1,3 +1,5 @@
+package firsttask;
+
 public class Vehicle {
     String name;
     String brand;
